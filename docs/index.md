@@ -5,7 +5,7 @@ layout: page
 # Overview
 
 <img class="overview-image" src="assets/images/lab-1-banner.png">
-<br>
+<br><br>
 <img class="overview-image" src="assets/images/lab-2-banner.png">
 
 For these assignments you'll review your work on Labs 1 and 2 from Game Design & Programming 1 - revising them as necessary and then submiting two items:
